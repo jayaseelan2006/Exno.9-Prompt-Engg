@@ -1,4 +1,4 @@
-# Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
+[# Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
 # Date: 
 # Register no.:
@@ -44,3 +44,4 @@ Save different versions of the videos and compare the results to understand how 
 
 # Result:
 
+](https://github.com/jayaseelan2006/Exno.9-Prompt-Engg/blob/main/README.md)
